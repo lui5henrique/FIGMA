@@ -21,7 +21,7 @@ Cada pasta contém:
 | Projeto | Descrição | Link |
 |--------|-----------|------|
 | **Moodboard** | Informações pessoais e profissionais | [Visualizar no Figma](https://www.figma.com/proto/AX3XeUFChGispCoqbWcI0f/MoodBoard_Chrome-LuisHenrique?node-id=1-2&t=vvJDt0YGrq1MOIqj-1) |
-| **AgroCare** | Projeto integrador (1º período) | [Visualizar no Figma](https://www.figma.com/design/4LqGbx96JwvRt79VkrTQup/AgroCare-apres.?node-id=0-1&t=8havuXxEXvnYl7bi-1) |
+| **AgroCare** | Projeto integrador (1º período) | [Visualizar no Figma](https://www.figma.com/proto/4LqGbx96JwvRt79VkrTQup/AgroCare-apres.?node-id=1-2&p=f&t=isUbpMKc3VELZcnt-1&scaling=contain&content-scaling=fixed&page-id=0%3A1) |
 
 ## 🚀 Em desenvolvimento
 
